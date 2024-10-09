@@ -1,0 +1,10 @@
+#root{
+    display: flex;
+    font-size: 32px;
+    color: blue;
+}
+
+p{
+    font-size: 26px;
+    background-color: aquamarine;
+}
